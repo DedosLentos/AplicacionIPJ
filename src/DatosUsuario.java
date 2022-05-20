@@ -1,7 +1,7 @@
 package aplicacion;
 
 public class DatosUsuario {
-	
+	//AAAAAAAAAAAAAAA
 		public DatosUsuario( ) {
 			
 		}
