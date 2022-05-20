@@ -2,6 +2,7 @@ package aplicacion;
 
 public class DatosUsuario {
 	//AAAAAAAAAAAAAAA
+	// sabelo papaaaaaaaaaaaaaaaaaaaa
 		public DatosUsuario( ) {
 			
 		}
