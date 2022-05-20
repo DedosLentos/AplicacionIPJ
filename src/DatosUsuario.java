@@ -19,7 +19,12 @@ public class DatosUsuario {
 			
 			
 		}
-		public DeditosLentos {
-			
+		//public DeditosLentos {
+			//usuario1=PanelLog.usuarioTxt.getText();
+			//pass1=PanelLog.passTxt.getText();
+			//if (usuario1.equals("user")&&pass1.equals("1234")) {
+			//	return 1;
+			//}else {
+			//	return 0;
 		}
 }
